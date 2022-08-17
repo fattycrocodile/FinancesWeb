@@ -1,9 +1,3 @@
-<h1 align="center">
-   GoFinancesWeb
-</h1>
-
-<br>
-
 ## :camera: Demonstração
 
 ![gif](github/GoFinances.gif)
